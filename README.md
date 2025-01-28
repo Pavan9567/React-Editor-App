@@ -7,7 +7,7 @@
 
 ## Setup
 1. Clone the repository.
-2. Navigate to `editor-frontend/` and run `npm install`.
+2. Run `npm install`.
 3. Start the app: `npm start`.
 
 ## Deployment
