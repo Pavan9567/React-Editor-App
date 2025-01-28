@@ -10,7 +10,7 @@ function App() {
 
   const addPackage = (packageName) => {
     if (!packages.includes(packageName)) {
-      setPackages([...packages, packageName]); // Add package to the list
+      setPackages([...packages, packageName]);
     }
   };
 
